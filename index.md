@@ -6,5 +6,5 @@
 
 ## HW1
 
-[Here](files/IE582_HW1.html) is the Homework 1 file.
+[Here] (files/IE582_HW1.html) is the Homework 1 file.
 
