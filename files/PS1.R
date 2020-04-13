@@ -4,11 +4,9 @@
 
 ##PS1
 
-
 a
 a
 a
-
 
 #basics
 2+5
